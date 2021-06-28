@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=talhaucarr&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozdeger&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
       
     
   <td align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaucarr&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozdeger&theme=radical" />
   </td>
 
   </tr>
