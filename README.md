@@ -1,6 +1,6 @@
-<table>
 ## Gökay Özdeğer 👋
-  Marmara University/Computer Science. Currently working as a Game Developer.
+<table>
+Marmara University/Computer Science. Currently working as a Game Developer.
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 </table>
 
