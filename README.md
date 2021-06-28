@@ -49,7 +49,7 @@ Here are some ideas to get you started:
     <img align="left" alt="Gökay Özdeğer | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:ygokayo@hotmail.com">
-    <img align="left" alt="Gökay Özdeğer | Gmail" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img align="left" alt="Gökay Özdeğer | Gmail" width="150px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
 
