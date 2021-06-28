@@ -1,4 +1,4 @@
-## Hi there 👋
+## Gökay Özdeğer 👋
   Marmara University/Computer Science. Currently working as a Game Developer.
 <!--
 
