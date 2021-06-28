@@ -1,5 +1,5 @@
 ## Hi there 👋
-  Marmara University/Computer Science. Usually works on Python.
+  Marmara University/Computer Science. Currently working as a Game Developer.
 <!--
 
 Here are some ideas to get you started:
