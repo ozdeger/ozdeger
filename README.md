@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/djehel041cfyz8fyrsqpnoftn)
 -->
-
+<table>
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![Inkscape](https://img.shields.io/badge/-Inkscape-05122A?style=flat&logo=inkscape)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
 
-<table>
+
   <tr>
     <td align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozdeger&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
