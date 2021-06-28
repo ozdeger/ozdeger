@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-### &nbsp;Connect with me
+### ☎️ &nbsp;Connect with me
 <br>
   <a href="https://www.linkedin.com/in/ozdeger/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
