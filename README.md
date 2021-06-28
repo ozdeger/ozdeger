@@ -4,7 +4,7 @@
      <td align="center">
 Marmara University/Computer Science. Currently working as a Game Developer.
         <td align="center">
-<img alt="GIF" src="https://cdn.discordapp.com/attachments/811605875881934864/859182594879651840/image0.gif" width = 200/>
+<img alt="GIF" src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width = 200/>
     </tr>
 </table>
 
