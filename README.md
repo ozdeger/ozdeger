@@ -18,14 +18,7 @@ Marmara University/Computer Science. Currently working as a Game Developer.
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
 
 <table>
-<div>
-    <p style="float: left;"><img src="http://placekitten.com/g/200/200" height="200px" width="200px" border="1px"></p>
-    <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
-</div>
-<div style="clear: left;">
-    <p style="float: left;"><img src="http://placekitten.com/g/200/200" height="200" width="200" border="1px"></p>
-    <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
-</div>
+
   <tr>
     <td align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozdeger&count_private=true&show_icons=true&line_height=21&show_icons=true&theme=dark&include_all_commits=true" />
