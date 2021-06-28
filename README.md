@@ -1,7 +1,18 @@
 ## Gökay Özdeğer 👋
 <table>
+  <tr>
+    <td align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozdeger&count_private=true&show_icons=true&line_height=21&show_icons=true&theme=dark&include_all_commits=true" />
+      
+    
+  <td align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozdeger&show_icons=true&line_height=21&show_icons=true&theme=dark" />
+  </td>
+
+  
 Marmara University/Computer Science. Currently working as a Game Developer.
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
+    </tr>
 </table>
 
 ### 🛠 &nbsp;Tech Stack
