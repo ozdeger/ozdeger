@@ -6,7 +6,7 @@ Marmara University/Computer Science. Currently working as a Game Developer.
         <td align="center">
 <img alt="GIF" src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width = 200/>
     </tr>
-<br>
+<br><br>
 
 ### 🛠 &nbsp;Tech Stack
 
