@@ -1,6 +1,6 @@
 ## Gökay Özdeğer 👋
 
- 🙋 | :octocat:
+ | 
 ------------ | -------------
 I am Wayne, an Engineer, a Senior Manager, an Amateur Software Developer, a Hacker, … and a curious person.  In my spare time, I enjoy reading, playing games, watching japanese animation, programming, learning japanese language and try new things. ⭐️ From [WayneChang65](https://github.com/WayneChang65)| <img alt="GIF" src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="60%"> <p align="center"></p>
 
