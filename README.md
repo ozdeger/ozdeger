@@ -2,7 +2,7 @@
 
  📖 | 🖥
 ------------ | -------------
-Marmara University/Computer Science. Currently working as a Game Developer.| <img alt="GIF" src="https://media.giphy.com/media/PKMOgLy2EDGkMPGwKQ/giphy.gif"> <p align="center"></p>
+Marmara University/Computer Science. Currently working as a Game Developer.| <img alt="GIF" src="https://media.giphy.com/media/PKMOgLy2EDGkMPGwKQ/giphy.gif"><p width="60%" align="center"></p>
 
 ### 🛠 &nbsp;Tech Stack
 
