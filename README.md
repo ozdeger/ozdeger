@@ -17,7 +17,7 @@ Marmara University/Computer Science. Currently working as a Game Developer.| <im
 
   <tr>
     <td align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozdeger&count_private=true&show_icons=true&line_height=21&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozdeger&count_private=true&show_icons=true&line_height=21&show_icons=true&theme=dark&include_all_commits=true" />
       
     
   <td align="center">
