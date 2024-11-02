@@ -2,7 +2,7 @@
 
  📖 | 🖥
 ------------ | -------------
-Marmara University/Computer Science. Currently working as a Game Developer.| <img alt="GIF" src="https://media.giphy.com/media/PKMOgLy2EDGkMPGwKQ/giphy.gif" width = 260>
+Currently working as Lead Game Developer at Ace Games.| <img alt="GIF" src="https://media.giphy.com/media/PKMOgLy2EDGkMPGwKQ/giphy.gif" width = 260>
 
 ### 🛠 &nbsp;Tech Stack
 
